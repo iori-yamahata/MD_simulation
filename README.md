@@ -11,6 +11,6 @@
 - Velocity Verlet法での更新
 
   
-これに紐付けして温度制御、拘束条件付きのダイナミクスなどの勉強を進める  
+これに紐付けして温度や体積制御、拘束条件付きのダイナミクスなどの勉強を進める  
 
 ![md_animation](https://github.com/user-attachments/assets/8e12e37b-71f0-48e0-885d-ef6caabcdfbf)
